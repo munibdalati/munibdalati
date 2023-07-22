@@ -5,7 +5,7 @@
 #### Full Stack Web and Mobile Developer
 
 👀 I studied Pharmacy and worked with R&D department in one of the biggest detergent companies in Jordan.
-After that I took a desiceion to change my carrer towards coding!
+After that I took a decision to change my carrer towards coding!
 🌱 I left my work, joined Orange Coding Academy and I have learned a lot about coding as Full stack developer 
 💞️ Now I'm looking for a work/intership in my field!
 📫 Reach me at my linkedin or email which are appearing at my profile
