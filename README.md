@@ -10,8 +10,7 @@
 💞️ Now I'm looking for a work/intership in my field! <br />
 📫 Reach me out! <br />
 <br />
- [![Linkedin Badge](https://img.shields.io/badge/-Munib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munib-dalati/) [![Mail Badge](https://img.shields.io/badge/-Munib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:munib.dalati@gmail.com)
-
+ [![Linkedin Badge](https://img.shields.io/badge/-Munib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munib-dalati/)
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
