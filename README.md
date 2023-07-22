@@ -6,21 +6,25 @@
 
 👀 I studied Pharmacy and worked with R&D department in one of the biggest detergent companies in Jordan. <br />
 :v:	After that I took a decision to change my carrer towards coding! <br />
-🌱 I left my work, joined Orange Coding Academy and I have learned a lot about coding as Full stack developer  <br />
+🌱 I left my work, joined **Orange Coding Academy** and I have learned a lot about coding as Full stack developer  <br />
 💞️ Now I'm looking for a work/intership in my field! <br />
 📫 Reach me out! <br />
 <br />
  [![Linkedin Badge](https://img.shields.io/badge/-Munib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munib-dalati/)
 
 ## Skills and Experience
-* 💻 HTML, CSS, JS
-* ⚛ React
+
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' height='40'><img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' height='40'>
+<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='bootstrap' height='40'>
+<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='js' height='40'>
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt='react' height='40'>
+<img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='node' height='40'>
+<img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' alt='express' height='40'>
+<img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='mongodb' height='40'>
 
 
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/munibdalati)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/munib-dalati/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://munibaldalati-portfolio.netlify.app/)  
+- :paperclip: [My Resume/CV](https://github.com/munibdalati/munibdalati/blob/main/Munib-Al-Dalati-resume.pdf)
 
 
 
