@@ -1,14 +1,17 @@
 
 ![Full Stack Web and Mobile Developer](https://github.com/munibdalati/munibdalati/blob/main/Banner.png)
 
-# Hi there 👋, I'm Munib Al-Dalati
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Munib Al-Dalati
 #### Full Stack Web and Mobile Developer
 
-👀 I studied Pharmacy and worked with R&D department in one of the biggest detergent companies in Jordan.
-After that I took a decision to change my carrer towards coding!
-🌱 I left my work, joined Orange Coding Academy and I have learned a lot about coding as Full stack developer 
-💞️ Now I'm looking for a work/intership in my field!
-📫 Reach me at my linkedin or email which are appearing at my profile
+👀 I studied Pharmacy and worked with R&D department in one of the biggest detergent companies in Jordan. <br />
+:v:	After that I took a decision to change my carrer towards coding! <br />
+🌱 I left my work, joined Orange Coding Academy and I have learned a lot about coding as Full stack developer  <br />
+💞️ Now I'm looking for a work/intership in my field! <br />
+📫 Reach me out! <br />
+<br />
+ [![Linkedin Badge](https://img.shields.io/badge/-Munib-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munib-dalati/) [![Mail Badge](https://img.shields.io/badge/-Munib-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:munib.dalati@gmail.com)
+
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
