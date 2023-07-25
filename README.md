@@ -23,14 +23,15 @@
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' alt='mongodb' height='40'>
 <img src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' alt='mongodb' height='40'>
 
-
-
-
-
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=munibdalati&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=munibdalati&show_icons=true&theme=radical"/>
 - :paperclip: [My Resume/CV](https://github.com/munibdalati/munibdalati/blob/main/Munib-Al-Dalati-resume.pdf)
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=munibdalati)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
